@@ -9,7 +9,7 @@ Popular Software Engineering interview questions and their solutions.
 * [Hashing](#hashing)
 * [Linked List](#linked-list)
 * [Math](#math)
-* [Stacks-And-Queues](#stacks-and-queues)
+* [Stacks And Queues](#stacks-and-queues)
 * [Strings](#strings)
 * [Two Pointers](#two-pointers)
 
@@ -190,3 +190,45 @@ Given an array of integers, sort the array into a wave like array and return it,
 <br>
 <br>
 <br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
+<br>
+<br>
+<br>
+###BackTracking
+---
