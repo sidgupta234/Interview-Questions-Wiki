@@ -213,7 +213,7 @@ Given a collection of integers that might contain duplicates, S, return all poss
 <br><br>
 **Note:** Elements in a subset must be in non-descending order.<br>
 **Note 2:** The solution set must not contain duplicate subsets.<br>
-**Note 3:** The subsets must be sorted lexicographically.<br>
+**Note 3:** The subsets must be sorted lexicographically.
 <br><br>
 [Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/waveArray.cpp)
 <br>
