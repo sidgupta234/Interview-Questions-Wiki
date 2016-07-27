@@ -23,7 +23,7 @@ Given a list of non negative integers, arrange them such that they form the larg
 <br><br>
 **Note:** The result may be very large, so you need to return a string instead of an integer.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/LargestNumber.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/LargestNumber.cpp)
 <br>
 <br>
 <br>
@@ -36,7 +36,7 @@ as 123 + 1 = 124.
 <br><br>
 **Note**: The result may be very large, so you need to return a string instead of an integer.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/addOne.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/addOne.cpp)
 <br>
 <br>
 <br>
@@ -49,7 +49,7 @@ For, **[1, 2, 3, 4, 5, 6, 7, 8, 9]** you should return, ***[ [1], [2, 4], [3, 5,
 <br>
 For, **[1, 2, 3, 4]** you should return, ***[ [1], [2, 3], [4] ]***
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/antiDiagonals.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/antiDiagonals.cpp)
 <br>
 <br>
 <br>
@@ -60,7 +60,7 @@ Given a read only array of n + 1 integers between 1 and n, find one number that 
 <br><br>
 **Note**: If there are multiple possible answers ( like in the sample case above ), output any one.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/findDuplicate.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/findDuplicate.cpp)
 <br>
 <br>
 <br>
@@ -71,7 +71,7 @@ Given an unsorted integer array, find the first missing positive integer.
 <br><br>
 **Note**: Your algorithm should run in O(n) time and use constant space.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/firstMissingNumb.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/firstMissingNumb.cpp)
 <br>
 <br>
 <br>
@@ -82,7 +82,7 @@ Given an index **k**, return the **kth** row of the Pascal’s triangle.
 <br><br>
  **Note:** k is 0 based. k = 0, corresponds to the row [1].  Could you optimize your algorithm to use only O(k) extra space?
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/kthRowOfPascal.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/kthRowOfPascal.cpp)
 <br>
 <br>
 <br>
@@ -97,7 +97,7 @@ Maximum sub-array is defined in terms of the sum of the elements in the sub-arra
 <br>
 **Note 2:** If there is still a tie, then return the segment with minimum starting index.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/maxNonNegSubarray.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/maxNonNegSubarray.cpp)
 <br>
 <br>
 <br>
@@ -108,7 +108,7 @@ Find the contiguous subarray within an array (containing at least one number) wh
 <br><br>
 For this problem, return the maximum sum.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/maxSumKadane.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/maxSumKadane.cpp)
 <br>
 <br>
 <br>
@@ -119,7 +119,7 @@ Given a collection of intervals, merge all overlapping intervals.
 <br><br>
 **Note:** Make sure the returned intervals are sorted.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/mergeOverlappingIntervals.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/mergeOverlappingIntervals.cpp)
 <br>
 <br>
 <br>
@@ -141,7 +141,7 @@ You are given a sequence of points and the order in which you need to cover the 
 <br>
 It takes 1 step to move from (0, 0) to (1, 1). It takes one more step to move from (1, 1) to (1, 2).
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/minSteps.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/minSteps.cpp)
 <br>
 <br>
 <br>
@@ -150,7 +150,7 @@ Given numRows, generate the first numRows of Pascal’s triangle.
 <br><br>
 **Example:** For numRows = **5**, Return ***[ [1], [1,1], [1,2,1], [1,3,3,1], [1,4,6,4,1] ]***
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/pascalTriangleRow.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/pascalTriangleRow.cpp)
 <br>
 <br>
 <br>
@@ -164,7 +164,7 @@ Each integer appears exactly once except A which appears twice and B which is mi
 <br><br>
 **Example:** For ***[3, 1, 2, 5, 3]*** return ***[3, 4]***
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/repeatAndMissingNum.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/repeatAndMissingNum.cpp)
 <br>
 <br>
 <br>
@@ -175,7 +175,7 @@ Given an m x n matrix of 0s and 1s, if an element is 0, set its entire row and c
 <br><br>
 **Note:** Try to minimize the space and time complexity.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/setMatrixZeroConstSpace.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/setMatrixZeroConstSpace.cpp)
 <br>
 <br>
 <br>
@@ -186,7 +186,7 @@ Given an array of integers, sort the array into a wave like array and return it,
 <br><br>
 **Note:** Multiple answers are possible, return the one that is  lexicographically smallest.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/waveArray.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/waveArray.cpp)
 <br>
 <br>
 <br>
@@ -215,7 +215,7 @@ Given a collection of integers that might contain duplicates, S, return all poss
 **Note 2:** The solution set must not contain duplicate subsets.<br>
 **Note 3:** The subsets must be sorted lexicographically.
 <br><br>
-[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/waveArray.cpp)
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Arrays/waveArray.cpp)
 <br>
 <br>
 <br>
