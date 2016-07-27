@@ -209,11 +209,11 @@ Make sure the returned list of strings are sorted.
 ####[Subsets 2](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Backtracking/subsets2.cpp)
 Given a collection of integers that might contain duplicates, S, return all possible subsets.
 <br><br>
-**Example:** For **S = [1,2,2]**, return ***[ [], [1],[1,2], [1,2,2], [2], [2, 2]]***. 
+**Example:** For **S = [1,2,2]**, return ***[ [], [1], [1,2], [1,2,2], [2], [2, 2] ]***. 
 <br><br>
-**Note:** Elements in a subset must be in non-descending order. 
-**Note 2:** The solution set must not contain duplicate subsets. 
-**Note 3:** The subsets must be sorted lexicographically.
+**Note:** Elements in a subset must be in non-descending order.<br>
+**Note 2:** The solution set must not contain duplicate subsets.<br>
+**Note 3:** The subsets must be sorted lexicographically.<br>
 <br><br>
 [Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/waveArray.cpp)
 <br>
