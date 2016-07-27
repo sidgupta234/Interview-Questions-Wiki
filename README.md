@@ -193,6 +193,32 @@ Given an array of integers, sort the array into a wave like array and return it,
 
 ###BackTracking
 - - -
+####[Generate All Parenthesis](https://www.interviewbit.com/problems/generate-all-parentheses-ii/)
+Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses of length 2Xn.
+Make sure the returned list of strings are sorted.
+<br><br>
+**Example:** For n = **3**, a solution set is:
+***"((()))", "(()())", "(())()", "()(())", "()()()"***
+<br><br>
+**Note:** Make sure the returned list of strings are sorted.
+<br><br>
+[Solution](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Backtracking/generateAllParen.cpp)
+<br>
+<br>
+<br>
+####[Subsets 2](https://github.com/sidgupta234/Interview-Questions-Wiki/blob/master/Backtracking/subsets2.cpp)
+Given a collection of integers that might contain duplicates, S, return all possible subsets.
+<br><br>
+**Example:** For **S = [1,2,2]**, return ***[ [], [1],[1,2], [1,2,2], [2], [2, 2]]***. 
+<br><br>
+**Note:** Elements in a subset must be in non-descending order. 
+**Note 2:** The solution set must not contain duplicate subsets. 
+**Note 3:** The subsets must be sorted lexicographically.
+<br><br>
+[Solution](https://github.com/sidgupta234/InterviewBit/blob/master/Level-2/Arrays/waveArray.cpp)
+<br>
+<br>
+<br>
 
 ###Binary Search 
 - - -
